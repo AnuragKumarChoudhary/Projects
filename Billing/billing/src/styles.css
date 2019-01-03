@@ -1,0 +1,4 @@
+/* You can add global styles to this file, and also import other style files */
+:host /deep/ .font_size_20{
+    font-size: 20px;
+}
